@@ -106,7 +106,7 @@ http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBC.png" tvg-country="US" tvg-url="" group-title="",NBC
 http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/WSFL.png/revision/latest/scale-to-width-down/250?cb=20200601174531" tvg-country="US" tvg-url="" group-title="Local",The CW Charlotte NC (WCCB-DT)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/WCCB_CW_logo.png/225px-WCCB_CW_logo.png" tvg-country="US" tvg-url="" group-title="Local",The CW Charlotte NC (WCCB-DT)
 http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wzBD6fy.png" tvg-country="US" tvg-url="" group-title="",TMZ
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
