@@ -40,6 +40,15 @@
     <icon src="http://my.tvguide.co.uk/channel_logos/257.png" />
     <url>http://www.tvguide.co.uk</url>
   </channel>
+  <channel id="Weather Nation (WTHRN)">
+    <display-name lang="en">Weather Nation (WTHRN)</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <channel id="WGN Chicago">
+    <display-name lang="en">WGN Chicago</display-name>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/320/280/content/common/channel/logos/lpaqfc.png" />
+    <url>http://www.ustvnow.com</url>
+  </channel>
   <programme start="20200606060000 +0100" stop="20200606100000 +0100" channel="BBC1 HD">
     <title lang="en">Breakfast</title>
     <sub-title lang="en">06/06/2020</sub-title>
@@ -2206,5 +2215,219 @@
     <star-rating system="GB">
       <value>6.5/10</value>
     </star-rating>
+  </programme>
+  <programme start="20200606000000 +0000" stop="20200606003000 +0000" channel="WGN Chicago">
+    <title lang="en">WGN Chicago</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/lpaqfc.png" />
+  </programme>
+  <programme start="20200606003000 +0000" stop="20200606010000 +0000" channel="WGN Chicago">
+    <title lang="en">black-ish</title>
+    <desc lang="en">Tensions are still running high for Dre at work due to the outcome of the presidential election; as class president, Junior deals with a disenfranchised student body.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p10777519_b_h3_ax.jpg" />
+  </programme>
+  <programme start="20200606010000 +0000" stop="20200606013000 +0000" channel="WGN Chicago">
+    <title lang="en">Last Man Standing</title>
+    <desc lang="en">When Eve is inspired by her father's patriotism and decides to join the Junior ROTC, Vanessa is concerned.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p17539602_b_h3_aa.jpg" />
+  </programme>
+  <programme start="20200606013000 +0000" stop="20200606020000 +0000" channel="WGN Chicago">
+    <title lang="en">Last Man Standing</title>
+    <desc lang="en">Mike is so impressed with Mandy's new boyfriend that he offers him a job; Kristin navigates her relationship with Ryan.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p17539602_b_h3_aa.jpg" />
+  </programme>
+  <programme start="20200606020000 +0000" stop="20200606030000 +0000" channel="WGN Chicago">
+    <title lang="en">WGN News at Nine</title>
+    <desc lang="en">The day's top stories.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p984866_b_h3_ag.jpg" />
+  </programme>
+  <programme start="20200606030000 +0000" stop="20200606033000 +0000" channel="WGN Chicago">
+    <title lang="en">WGN News at Ten</title>
+    <desc lang="en">The day's top stories.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p12178029_b_h3_ag.jpg" />
+  </programme>
+  <programme start="20200606033000 +0000" stop="20200606034500 +0000" channel="WGN Chicago">
+    <title lang="en">WGN News at 10:30</title>
+    <desc lang="en">The day's top stories.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p18375052_b_h3_aa.jpg" />
+  </programme>
+  <programme start="20200606034500 +0000" stop="20200606040000 +0000" channel="WGN Chicago">
+    <title lang="en">GN Sports</title>
+    <desc lang="en">Hosts Dan Roan and Jarrett Payton.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p17854962_b_h3_aa.jpg" />
+  </programme>
+  <programme start="20200606040000 +0000" stop="20200606043000 +0000" channel="WGN Chicago">
+    <title lang="en">The Goldbergs</title>
+    <desc lang="en">After an incident in the garage, Murray demands that the family clean it out; Erica has a hard time parting with her New Kids on the Block memorabilia.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p17114329_b_h3_ac.jpg" />
+  </programme>
+  <programme start="20200606043000 +0000" stop="20200606050000 +0000" channel="WGN Chicago">
+    <title lang="en">Two and a Half Men</title>
+    <desc lang="en">Charlie and Rose continue their affair; Alan's business becomes a Ponzi scheme.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p8218909_b_h3_aa.jpg" />
+  </programme>
+  <programme start="20200606050000 +0000" stop="20200606053000 +0000" channel="WGN Chicago">
+    <title lang="en">Two and a Half Men</title>
+    <desc lang="en">Lyndsey's jealousy disrupts Walden's and Alan's dates with beautiful women.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p8218909_b_h3_aa.jpg" />
+  </programme>
+  <programme start="20200606053000 +0000" stop="20200606060000 +0000" channel="WGN Chicago">
+    <title lang="en">The Goldbergs</title>
+    <desc lang="en">Adam becomes a magician to impress a girl; although Barry doesn't want to take the PSAT, he is troubled when he discovers his friends are taking it.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p17114329_b_h3_ac.jpg" />
+  </programme>
+  <programme start="20200606060000 +0000" stop="20200606063000 +0000" channel="WGN Chicago">
+    <title lang="en">Mom</title>
+    <desc lang="en">Christy struggles to accept how much easier life is with Bonnie around; Baxter camps in the driveway.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p17047580_b_h3_ac.jpg" />
+  </programme>
+  <programme start="20200606063000 +0000" stop="20200606070000 +0000" channel="WGN Chicago">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p459763_b_h3_ae.jpg" />
+  </programme>
+  <programme start="20200606070000 +0000" stop="20200606073000 +0000" channel="WGN Chicago">
+    <title lang="en">Visibly Reduce Crow's Feet, Wrinkles, and Under-Eye Bags in Minutes!</title>
+    <desc lang="en">Plexaderm starts working instantly to reduce the look of fine-lines, deep wrinkles, crow's feet, and under-eye puffiness. You'll be amazed at the transformation you see in just a few short minutes after applying this miracle age-defying cream.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/lpaqfc.png" />
+  </programme>
+  <programme start="20200606073000 +0000" stop="20200606080000 +0000" channel="WGN Chicago">
+    <title lang="en">Promote Your Immune System with Vitamin D</title>
+    <desc lang="en">Advanced D? provides a powerful dose of Vitamin D backed by nutrients that work in tandem with this crucial vitamin to support the health of numerous systems within the body.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/lpaqfc.png" />
+  </programme>
+  <programme start="20200606080000 +0000" stop="20200606083000 +0000" channel="WGN Chicago">
+    <title lang="en">Cordless Iron</title>
+    <desc lang="en">The PowerXL Cordless Iron &amp; Steamer offers cordless ironing and powerful steaming with the convenience of quick recharging!(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p16107971_b_h3_ab.jpg" />
+  </programme>
+  <programme start="20200606083000 +0000" stop="20200606090000 +0000" channel="WGN Chicago">
+    <title lang="en">New Larry King Update: Credit Crisis?</title>
+    <desc lang="en">Larry King update reveals the secret to improving your credit score and finances.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p15219038_b_h3_aa.jpg" />
+  </programme>
+  <programme start="20200606090000 +0000" stop="20200606093000 +0000" channel="WGN Chicago">
+    <title lang="en">Xploration Animal Science</title>
+    <desc lang="en">Creatures from the continent of South America; a jaguar's jaws' ability to crush bone; the growth of a Galapagos tortoise.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p9360679_b_h3_af.jpg" />
+  </programme>
+  <programme start="20200606093000 +0000" stop="20200606100000 +0000" channel="WGN Chicago">
+    <title lang="en">Clean Air NOW!</title>
+    <desc lang="en">Feel better and breathe better with the revolutionary NuWave OxyPure Smart Air Purifier. Four stages of filtration to eliminate virtually 100% of indoor airborne pollutants to clean the air in your home.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p18316045_b_h3_aa.jpg" />
+  </programme>
+  <programme start="20200606100000 +0000" stop="20200606103000 +0000" channel="WGN Chicago">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p459763_b_h3_ae.jpg" />
+  </programme>
+  <programme start="20200606103000 +0000" stop="20200606110000 +0000" channel="WGN Chicago">
+    <title lang="en">Superthotics - Relieve Pain with Every Step</title>
+    <desc lang="en">Superthotics is the first genuinely personalized orthotic available without a doctor's visit that can instantly relieve pain in the feet, ankles, knees, hips, and back. Tune in for a special TV offer!(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/lpaqfc.png" />
+  </programme>
+  <programme start="20200606110000 +0000" stop="20200606113000 +0000" channel="WGN Chicago">
+    <title lang="en">Relieve Your Foot Pain with WalkFit!</title>
+    <desc lang="en">WalkFit Platinum insoles relieve foot, hip, knee and back pain.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p12727082_b_h3_aa.jpg" />
+  </programme>
+  <programme start="20200606113000 +0000" stop="20200606120000 +0000" channel="WGN Chicago">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p459763_b_h3_ae.jpg" />
+  </programme>
+  <programme start="20200606120000 +0000" stop="20200606130000 +0000" channel="WGN Chicago">
+    <title lang="en">WGN Weekend Morning News</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p13968021_b_h3_ad.jpg" />
+  </programme>
+  <programme start="20200606130000 +0000" stop="20200606140000 +0000" channel="WGN Chicago">
+    <title lang="en">WGN Weekend Morning News</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p13968021_b_h3_ad.jpg" />
+  </programme>
+  <programme start="20200606140000 +0000" stop="20200606150000 +0000" channel="WGN Chicago">
+    <title lang="en">WGN Weekend Morning News</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p13968021_b_h3_ad.jpg" />
+  </programme>
+  <programme start="20200606150000 +0000" stop="20200606153000 +0000" channel="WGN Chicago">
+    <title lang="en">Living Healthy Chicago</title>
+    <desc lang="en">Jane Monzures discovers tips and information from local health experts on how you can live a healthier lifestyle.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p780507_b_h3_ac.jpg" />
+  </programme>
+  <programme start="20200606153000 +0000" stop="20200606160000 +0000" channel="WGN Chicago">
+    <title lang="en">At the Forefront</title>
+    <desc lang="en">The University of Chicago Medicine's consumer health and wellness education program featuring UChicago Medicine physician experts providing tangible advice and insight on a variety of health topics.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/common,channel/logos/lpaqfc.png" />
+  </programme>
+  <programme start="20200606160000 +0000" stop="20200606163000 +0000" channel="WGN Chicago">
+    <title lang="en">America's Heartland</title>
+    <desc lang="en">A buffalo farm; agronomy; food and farm tours.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p13122467_b_h3_aa.jpg" />
+  </programme>
+  <programme start="20200606163000 +0000" stop="20200606170000 +0000" channel="WGN Chicago">
+    <title lang="en">Jack Hanna's Into the Wild</title>
+    <desc lang="en">Jack and his family encounter chimpanzees and colobus monkeys while exploring Rwanda's Nyungwe Forest; traditional tea picking and modern beekeeping.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p13247161_b1t_h3_aa.jpg" />
+  </programme>
+  <programme start="20200606170000 +0000" stop="20200606173000 +0000" channel="WGN Chicago">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p459763_b_h3_ae.jpg" />
+  </programme>
+  <programme start="20200606173000 +0000" stop="20200606180000 +0000" channel="WGN Chicago">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p459763_b_h3_ae.jpg" />
+  </programme>
+  <programme start="20200606180000 +0000" stop="20200606183000 +0000" channel="WGN Chicago">
+    <title lang="en">Did Talcum Powder Cause Your Cancer?</title>
+    <desc lang="en">Have you or a loved one been diagnosed with cancer? You may be entitled to compensation.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p17341729_b_h3_aa.jpg" />
+  </programme>
+  <programme start="20200606183000 +0000" stop="20200606190000 +0000" channel="WGN Chicago">
+    <title lang="en">5 Makeup Tips 4 You</title>
+    <desc lang="en">Airbrushed makeup made easy!(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p13852560_b_h3_aa.jpg" />
+  </programme>
+  <programme start="20200606190000 +0000" stop="20200606193000 +0000" channel="WGN Chicago">
+    <title lang="en">Mom</title>
+    <desc lang="en">Christy makes the dean's list at school, but Bonnie's uninspired response is less than passing.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p17047580_b_h3_ac.jpg" />
+  </programme>
+  <programme start="20200606193000 +0000" stop="20200606200000 +0000" channel="WGN Chicago">
+    <title lang="en">Mom</title>
+    <desc lang="en">After hearing different stories about Violet and Gregory's breakup, Christy and Bonnie are confused about what actually happened.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p17047580_b_h3_ac.jpg" />
+  </programme>
+  <programme start="20200606200000 +0000" stop="20200606203000 +0000" channel="WGN Chicago">
+    <title lang="en">Mom</title>
+    <desc lang="en">Christy becomes discouraged when she realizes how much it will cost to become a lawyer; Bonnie tries to discipline Violet.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p17047580_b_h3_ac.jpg" />
+  </programme>
+  <programme start="20200606203000 +0000" stop="20200606210000 +0000" channel="WGN Chicago">
+    <title lang="en">HouseSmarts</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p404004_b_h3_ac.jpg" />
+  </programme>
+  <programme start="20200606210000 +0000" stop="20200606213000 +0000" channel="WGN Chicago">
+    <title lang="en">Chicago's Best</title>
+    <desc lang="en">A look back on some of the best burgers in Chicagoland available for curbside pickup and delivery. Hosts: Elliott Bambrough, Marley Kayden.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p9761511_b_h3_ae.jpg" />
+  </programme>
+  <programme start="20200606213000 +0000" stop="20200606220000 +0000" channel="WGN Chicago">
+    <title lang="en">Living Healthy Chicago</title>
+    <desc lang="en">Jane Monzures discovers tips and information from local health experts on how you can live a healthier lifestyle. Host: Jane Monzures.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p780507_b_h3_ac.jpg" />
+  </programme>
+  <programme start="20200606220000 +0000" stop="20200606230000 +0000" channel="WGN Chicago">
+    <title lang="en">WGN Weekend Evening News</title>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p13976060_b_h3_ad.jpg" />
+  </programme>
+  <programme start="20200606230000 +0000" stop="20200606233000 +0000" channel="WGN Chicago">
+    <title lang="en">Friends</title>
+    <desc lang="en">The group is amazed when Phoebe marries a Canadian ice dancer (Steve Zahn) to help him get his green card.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p7892579_b_h3_ah.jpg" />
+  </programme>
+  <programme start="20200606233000 +0000" stop="20200607000000 +0000" channel="WGN Chicago">
+    <title lang="en">Friends</title>
+    <desc lang="en">Rachel regrets making a date for Chandler and her boss, Joanna (Alison LaPlaca); Joey's interest in Kate (Dina Meyer) intensifies.(n)</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/epg,p7892579_b_h3_ah.jpg" />
   </programme>
 </tv>
