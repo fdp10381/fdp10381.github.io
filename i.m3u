@@ -95,21 +95,18 @@ http://190.80.3.28/CW/CW.isml/index.m3u8
 http://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ESPN (ESPN)" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/fDJpIpn.png" tvg-country="US" tvg-url="" group-title="Sport",ESPN
 http://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1 HDTV (FS1HD)" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Sport",FOX Sport HD 1
+#EXTINF:-1 tvg-id="Fox Sports 1 HDTV (FS1HD)" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/330px-Fox_Sports_Logo.svg.png" tvg-country="US" tvg-url="" group-title="Sport",FOX Sport HD 1
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 2 HDTV (FS2HD)" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Sport",FOX Sport HD 2
-http://anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-FoxSports2-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/FOiUOeW.png" tvg-country="US" tvg-url="" group-title="Entertainment",MTV (Latin America)
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/QpdHuGo.png" tvg-country="US" tvg-url="" group-title="Entertainment",MTV Norge
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-
 #EXTINF:-1 tvg-id="WNBC" tvg-name="US-NBC HD New York" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBC.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",NBC
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBC.png" tvg-country="US" tvg-url="" group-title="",NBC
 http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Local",The CW Charlotte NC (WCCB-DT)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/WSFL.png/revision/latest/scale-to-width-down/250?cb=20200601174531" tvg-country="US" tvg-url="" group-title="Local",The CW Charlotte NC (WCCB-DT)
 http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wzBD6fy.png" tvg-country="US" tvg-url="" group-title="",TMZ
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
