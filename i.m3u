@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BBC One HD" tvg-name="BBC One HD" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" tvg-url="http;//fdp10381.github.io/guide.xml" group-title="BBC",BBC One HD
+#EXTINF:-1 tvg-id="BBC One HD" tvg-name="BBC One HD" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" tvg-url="http://fdp10381.github.io/guide.xml" group-title="BBC",BBC One HD
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/llnw/bbc_one_hd.m3u8
 #EXTINF:-1 tvg-id="BBC One London" tvg-name="BBC One London" tvg-logo="https://s4.postimg.org/z61nj8qd9/Bbc_london_logo.jpg" group-title="BBC",BBC One London
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/llnw/bbc_one_london.m3u8
