@@ -47,21 +47,21 @@ https://abclive1-lh.akamaihd.net/i/abc_live08@423402/master.m3u8
 https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top.png" tvg-country="US" tvg-url="" group-title="",AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Bloomberg TV (BTV)" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Fox_Life_Turkey.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Business",Bloomberg TV
+#EXTINF:-1 tvg-id="Bloomberg in HDTV (BTVHD)" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Fox_Life_Turkey.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Business",Bloomberg TV
 http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
-#EXTINF:-1 tvg-id="Bloomberg TV (BTV)" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://i.imgur.com/idRFfhY.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Business",Bloomberg TV
+#EXTINF:-1 tvg-id="Bloomberg in HDTV (BTVHD)" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://i.imgur.com/idRFfhY.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Business",Bloomberg TV
 http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
-#EXTINF:-1 tvg-id="Bloomberg TV (BTV)" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Business",Bloomberg TV
+#EXTINF:-1 tvg-id="Bloomberg in HDTV (BTVHD)" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Business",Bloomberg TV
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 tvg-id="Bloomberg TV (BTV)" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Business",Bloomberg TV
+#EXTINF:-1 tvg-id="Bloomberg in HDTV (BTVHD)" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Business",Bloomberg TV
 http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
-#EXTINF:-1 tvg-id="Bloomberg TV (BTV)" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Business",Bloomberg TV
+#EXTINF:-1 tvg-id="Bloomberg in HDTV (BTVHD)" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Business",Bloomberg TV
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 tvg-id="Bloomberg TV (BTV)" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Business",Bloomberg TV
+#EXTINF:-1 tvg-id="Bloomberg in HDTV (BTVHD)" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Business",Bloomberg TV
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
-#EXTINF:-1 tvg-id="Bloomberg TV (BTV)" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Business",Bloomberg TV
+#EXTINF:-1 tvg-id="Bloomberg in HDTV (BTVHD)" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Business",Bloomberg TV
 https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 tvg-id="Bloomberg TV (BTV)" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb3KJ9YQPn_U_FdsCBkOI60nVG_rfwJX6jEDj8RV4DQ3fs1DRiGTgGNA" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Business",Bloomberg TV
+#EXTINF:-1 tvg-id="Bloomberg in HDTV (BTVHD)" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb3KJ9YQPn_U_FdsCBkOI60nVG_rfwJX6jEDj8RV4DQ3fs1DRiGTgGNA" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Business",Bloomberg TV
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
 #EXTINF:-1 tvg-id="FOX Boston-US" tvg-name="FOX Boston-US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU3tOhoaIyjC8qJ_OjWjddzk-GMGxXDfKYzRfNhqOrxoLzZze3IpdGBw" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Local",Boston 25 News (WFXT)
 http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8
@@ -75,45 +75,39 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:-1 tvg-id="CBS" tvg-name="CBS HD New York-US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",CBS
 http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
-#EXTINF:-1 tvg-id="CBS (WCBS) New York, NY" tvg-name="" tvg-language="English" tvg-logo="https://cbsnews1.cbsistatic.com/hub/i/r/2019/06/10/f864d4e3-8707-4b99-9cc0-ba1778552e15/thumbnail/logo-cbsnla-1920x1080-new.jpg" tvg-country="US" tvg-url="" group-title="News",CBS News Los Angeles
+#EXTINF:-1 tvg-id="WCBS (CBS)" tvg-name="" tvg-language="English" tvg-logo="https://cbsnews1.cbsistatic.com/hub/i/r/2019/06/10/f864d4e3-8707-4b99-9cc0-ba1778552e15/thumbnail/logo-cbsnla-1920x1080-new.jpg" tvg-country="US" tvg-url="" group-title="News",CBS News Los Angeles
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
-#EXTINF:-1 tvg-id="CBS (KCBS) Los Angeles, CA" tvg-name="" tvg-language="English" tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2019/06/10/d0b656c8-f79a-4492-946a-68278fcda687/thumbnail/logo-cbsnny-1920x1080-new.jpg" tvg-country="US" tvg-url="" group-title="News",CBS News New York
+#EXTINF:-1 tvg-id="KCBS (CBS)" tvg-name="" tvg-language="English" tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2019/06/10/d0b656c8-f79a-4492-946a-68278fcda687/thumbnail/logo-cbsnny-1920x1080-new.jpg" tvg-country="US" tvg-url="" group-title="News",CBS News New York
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
-#EXTINF:-1 tvg-id="CNBC USA" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/53EgUZN.png" tvg-country="US" tvg-url="" group-title="News",CNBC
+#EXTINF:-1 tvg-id="CNBC" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/53EgUZN.png" tvg-country="US" tvg-url="" group-title="News",CNBC
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/master.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/ilZJT5s.png" tvg-country="US" tvg-url="" group-title="News",CNN
+#EXTINF:-1 tvg-id="Cable News Network (CNN)" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/ilZJT5s.png" tvg-country="US" tvg-url="" group-title="News",CNN
 http://92.43.140.249/s27/04.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/ilZJT5s.png" tvg-country="US" tvg-url="" group-title="News",CNN
+#EXTINF:-1 tvg-id="Cable News Network (CNN)" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/ilZJT5s.png" tvg-country="US" tvg-url="" group-title="News",CNN
 http://ott-cdn.ucom.am/s27/index.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="News",CNN
+#EXTINF:-1 tvg-id="Cable News Network (CNN)" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="News",CNN
 http://s3linkgapp.net:25461/dlvHZ4ocfx/Descarga-Desde-PlayStore-GnulaTVLite-A544610/16849
-#EXTINF:-1 tvg-id="CNN" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="News",CNN
+#EXTINF:-1 tvg-id="Cable News Network (CNN)" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="News",CNN
 http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10749
 #EXTINF:-1 tvg-id="CW" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/WSFL_2017_Logo.png" tvg-country="US" tvg-url="" group-title="Local",CW South Florida
 http://190.80.3.28/CW/CW.isml/index.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/fDJpIpn.png" tvg-country="US" tvg-url="" group-title="Sport",ESPN
+#EXTINF:-1 tvg-id="ESPN (ESPN)" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/fDJpIpn.png" tvg-country="US" tvg-url="" group-title="Sport",ESPN
 http://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/fDJpIpn.png" tvg-country="US" tvg-url="" group-title="Sport",ESPN
+#EXTINF:-1 tvg-id="ESPN (ESPN)" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/fDJpIpn.png" tvg-country="US" tvg-url="" group-title="Sport",ESPN
 http://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1 (FS1)" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Sport",FOX Sport HD 1
+#EXTINF:-1 tvg-id="Fox Sports 1 HDTV (FS1HD)" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Sport",FOX Sport HD 1
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Sport",FOX Sport HD 2
+#EXTINF:-1 tvg-id="Fox Sports 2 HDTV (FS2HD)" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Sport",FOX Sport HD 2
 http://anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-FoxSports2-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/FOiUOeW.png" tvg-country="US" tvg-url="" group-title="Entertainment",MTV (Latin America)
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/QpdHuGo.png" tvg-country="US" tvg-url="" group-title="Entertainment",MTV Norge
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="National Geographic Wild ARB" tvg-language="English" tvg-logo="https://i.imgur.com/2Wy4o31.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-#EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="National Geographic Wild ARB" tvg-language="English" tvg-logo="https://i.imgur.com/2Wy4o31.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
-#EXTINF:-1 tvg-id="3e8d42d985fbf1e7bf8c39df9c41c34f" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",NAT GEO Wild
-http://livestream.biznetvideo.net/biznet_ngwild/smil:ngwild.smil/chunklist_w1952192977_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1FOE8tZGNKY3MzSHNEU0drOEtDWFp0UW82XzlxWlhwUzI3QkY4OWJSdnZMakIyanVCRW9lZmtsS0VKOTlsZmxE.m3u8
-#EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="National Geographic Wild ARB" tvg-language="English" tvg-logo="https://i.imgur.com/2Wy4o31.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",Nat Geo Wild HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 tvg-id="National Geographic" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",National Geographic
-http://livestream.biznetvideo.net/biznet_ngc/smil:ngc.smil/chunklist_w99579112_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1TT0Z6NFJEdW5XTVlLUjFLRzNqZHgxZzloMXZnX0E5WHRaV0JoS3JxSjltNGFfNzZsU2oyRjY5anFhSmh1VFhh.m3u8
-#EXTINF:-1 tvg-id="NBC (WNBC) New York, NY" tvg-name="US-NBC HD New York" tvg-language="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28717_h3_aa.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",NBC
+#EXTINF:-1 tvg-id="National Geographic Channel (NGC)" tvg-name="National Geographic ARB" tvg-language="English" tvg-logo="https://i.imgur.com/FOFEg4F.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTINF:-1 tvg-id="National Geographic Channel (NGC)" tvg-name="National Geographic ARB" tvg-language="English" tvg-logo="https://i.imgur.com/FOFEg4F.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1 tvg-id="WNBC" tvg-name="US-NBC HD New York" tvg-language="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28717_h3_aa.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",NBC
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="",NBC
 http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
