@@ -29,14 +29,6 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestrea
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master_540-57.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/WPLGlogo.png" tvg-country="US" tvg-url="" group-title="",ABC 10 Miami FL (WPLG)
 http://190.80.3.28/ABC/ABC.isml/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WBRZ_Logo_2013.png" tvg-country="US" tvg-url="" group-title="Local",ABC 2 Baton Rouge LA (WBRZ-HD)
-http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://gray.tv/uploads/redesign/COMPANIES/logos/WWSB.png" tvg-country="US" tvg-url="" group-title="",ABC 7 Sarasota FL (WWSB)
-https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Local",ABC 9 Chattanooga TN (WTVC)
-http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://mediaweb.wftv.com/theme/images/placeholder-square.jpg" tvg-country="US" tvg-url="" group-title="Local",ABC 9 Orlando FL (WFTV-HD)
-http://svc-lvanvato-cxtv-wftv.cmgvideo.com/wftv/2564k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/V8eTp2V.png" tvg-country="US" tvg-url="" group-title="News",ABC News Digital 1
 https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/V8eTp2V.png" tvg-country="US" tvg-url="" group-title="News",ABC News Digital 10
@@ -465,20 +457,11 @@ http://vanadium.uww.edu:1935/uwwlive/smil:uwwtv.smil/chunklist_w2102626622_b3000
 http://worcester.vod.castus.tv/live/ch1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/ctn.png" tvg-country="US" tvg-url="" group-title="",WCLF
 http://162.244.80.254:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/uUb3vwe.png" tvg-country="US" tvg-url="" group-title="Weather",Weather Nation
+#EXTINF:-1 tvg-id="" tvg-name="Weather Nation (WTHRN)" tvg-language="English" tvg-logo="https://i.imgur.com/uUb3vwe.png" tvg-country="US" tvg-url="" group-title="Weather",Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Weather",WeatherNation TV
+#EXTINF:-1 tvg-id="" tvg-name="Weather Nation (WTHRN)" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Weather",WeatherNation TV
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1 tvg-id="WGN HD Chicago-US" tvg-name="WGN HD Chicago-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/wgn-cvo.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",WGN-TV (Chicago)
+#EXTINF:-1 tvg-id="WGN ChicagoS" tvg-name="WGN HD Chicago-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/wgn-cvo.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",WGN-TV (Chicago)
 http://bit.ly/2z8NPLB
-#EXTINF:-1 tvg-id="WGN HD Chicago-US" tvg-name="WGN HD Chicago-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/wgn-cvo.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Local",WGN-TV (Chicago)
+#EXTINF:-1 tvg-id="WGN Chicago" tvg-name="WGN HD Chicago-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/wgn-cvo.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Local",WGN-TV (Chicago)
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="",WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="",WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="",WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="",WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/2IOP6LI.jpg" tvg-country="US" tvg-url="" group-title="",WSJ
