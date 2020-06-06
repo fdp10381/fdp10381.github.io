@@ -81,20 +81,8 @@ https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
 #EXTINF:-1 tvg-id="CNBC" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/53EgUZN.png" tvg-country="US" tvg-url="" group-title="News",CNBC
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/master.m3u8
-#EXTINF:-1 tvg-id="Cable News Network (CNN)" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/ilZJT5s.png" tvg-country="US" tvg-url="" group-title="News",CNN
-http://92.43.140.249/s27/04.m3u8
-#EXTINF:-1 tvg-id="Cable News Network (CNN)" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/ilZJT5s.png" tvg-country="US" tvg-url="" group-title="News",CNN
-http://ott-cdn.ucom.am/s27/index.m3u8
-#EXTINF:-1 tvg-id="Cable News Network (CNN)" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="News",CNN
-http://s3linkgapp.net:25461/dlvHZ4ocfx/Descarga-Desde-PlayStore-GnulaTVLite-A544610/16849
-#EXTINF:-1 tvg-id="Cable News Network (CNN)" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="News",CNN
-http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10749
 #EXTINF:-1 tvg-id="CW" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/WSFL_2017_Logo.png" tvg-country="US" tvg-url="" group-title="Local",CW South Florida
 http://190.80.3.28/CW/CW.isml/index.m3u8
-#EXTINF:-1 tvg-id="ESPN (ESPN)" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/fDJpIpn.png" tvg-country="US" tvg-url="" group-title="Sport",ESPN
-http://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ESPN (ESPN)" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/fDJpIpn.png" tvg-country="US" tvg-url="" group-title="Sport",ESPN
-http://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 1 HDTV (FS1HD)" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/330px-Fox_Sports_Logo.svg.png" tvg-country="US" tvg-url="" group-title="Sport",FOX Sport HD 1
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/FOiUOeW.png" tvg-country="US" tvg-url="" group-title="Entertainment",MTV (Latin America)
@@ -105,7 +93,6 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBC.png" tvg-country="US" tvg-url="" group-title="",NBC
 http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/WCCB_CW_logo.png/225px-WCCB_CW_logo.png" tvg-country="US" tvg-url="" group-title="Local",The CW Charlotte NC (WCCB-DT)
 http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wzBD6fy.png" tvg-country="US" tvg-url="" group-title="",TMZ
